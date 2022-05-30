@@ -1,3 +1,3 @@
 # Machine_Vision_Final_Project
 
-hello world
+Implementation of Visual Inertial Odometry for Machine Vision Final Project
